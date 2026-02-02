@@ -1,0 +1,7 @@
+{
+  "name": "EduPro - Advanced Learning Portal",
+  "description": "A comprehensive educational platform featuring MCQ exams, practice sessions, course resources, and a robust admin management system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
